@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+main{
+  min-height: 100vh;
+  padding: 80px 0;
+}
+
+footer {
+  background-color: #0d1323;
+  padding: 30px 0;
+  color: #FFF;
+}
